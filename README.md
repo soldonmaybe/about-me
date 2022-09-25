@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @soldonmaybe
-- 👀 I’m interested in data analytics
-- 🌱 I’m currently learning python, R, SQL, Tableau
+- 👀 I’m interested in data analytics & data engineering
 - 📫 Reach me on twitter.com/soldonmaybe
 
 <!---
